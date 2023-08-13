@@ -3,7 +3,7 @@ I created a FoodApp that consist of various features as in Home Page, About page
 I even corpurated with multiple pages U/UX design.
 The website having various function on mouse click i.e. i added Prototype as well to switch pages and rotate images.
 
-# Technology Used
+# Technology/LanguageUsed
 Figma
 
 # Sample Website Output
