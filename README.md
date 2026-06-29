@@ -65,7 +65,7 @@
 
 ---
 
-### Project Files:
+## 📂 Project Structure
 - `FoodApp.fig` - Complete Figma design file
 - `FoodApp_Img/` - Design assets and images
 
