@@ -16,13 +16,6 @@
 
 ## 🔄 Process / Flow
 
-```
-Design Wireframes → Create Layouts → 
-Add Visual Elements → Build Prototypes → 
-Implement Interactions → Test Navigation → 
-Final Design System
-```
-
 **Key Steps:**
 1. Wireframed all pages with proper layout structure
 2. Designed visual elements and typography
@@ -69,6 +62,12 @@ Final Design System
 - User experience optimization
 - E-commerce design patterns
 - Navigation flow design
+
+---
+
+### Project Files:
+- `FoodApp.fig` - Complete Figma design file
+- `FoodApp_Img/` - Design assets and images
 
 ---
 
@@ -126,11 +125,3 @@ Final Design System
    - Check color palette and typography
    - Review component library
    - Inspect spacing and layout guidelines
-
-### Project Files:
-- `FoodApp.fig` - Complete Figma design file
-- `FoodApp_Img/` - Design assets and images
-
----
-
-**Created:** August 13, 2023
